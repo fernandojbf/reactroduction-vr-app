@@ -52,7 +52,7 @@ export default class reactroduction_vr_app extends React.Component {
               transform: [{ translate: [0, 1, 10] }, {rotateY: 180}],
             }}
           >
-            ( NOT REALLY, I SUFFER A LOT OF SEEK MOTION :( )
+            ( NOT REALLY, I SUFFER A LOT OF MOTION SICKNESS :( )
           </Text>
         </View>
       </View>
